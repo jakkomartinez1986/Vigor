@@ -1,0 +1,6 @@
+{
+  "name": "Vigor",
+  "description": "Aplicación premium para la gestión y seguimiento del rendimiento físico, rutinas de ejercicios completables y analíticas gráficas de composición corporal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
